@@ -1,4 +1,4 @@
-# app-ads.txt URL parsing reference implementation
+google.com, pub-9731584700689588, DIRECT, f08c47fec0942fa0 app-ads.txt URL parsing reference implementation
 
 This repository contains a reference implementation of app-ads.txt parsing utilities, along with test cases for verifying compatibility.  These packages are written in the Go software language, although the code and unit tests can be easily ported to another language if needed.
 
